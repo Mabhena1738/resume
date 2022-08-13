@@ -1,0 +1,128 @@
+#headd{
+    background-color: rgba(0, 0, 0, 0.808);
+    font-size: 30;
+    padding-top: 5px;
+    padding-bottom: 2px;
+    border: 1px solid #ffffff;
+    border-radius: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h1{
+    display: inline;
+    color: rgb(251, 253, 237);
+    font-size: 40px;
+    font-weight: bold;
+    text-shadow: rgb(62, 192, 231);
+}
+h2, h3, #lit{
+    color: rgb(245, 192, 17);
+}
+a{
+    background-color: rgba(245, 237, 146, 0.151);
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+    display: inline-block;
+    color: rgb(245, 238, 201);
+    font-size: 20px;
+    border: 1px solid #ffffff;
+    width: 20%;
+    border-radius: 5px;
+    margin-right: 30px;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+a:active{
+    background-color: #ffffff;
+    color: black;
+}
+a:hover{
+    background-color: beige;
+    color: black;
+}
+a:focus{
+    background-color: #ffffff;
+    color: black;
+}
+body{
+    background-color: rgba(22, 19, 19, 0.897);
+    color: white;
+    font-size: 18px;
+    margin: 20px;
+}
+div{
+    position: relative;
+    border: 1px solid rgb(223, 222, 221);
+    border-radius: 10px;
+    margin: 5px;
+    padding: 10px;
+    height: max-content;
+}
+footer{
+    display: block;
+    text-align: center;
+    width: 100%;
+    background-color: black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    clear:both;
+}
+#div1, #ref{
+    background-color: rgba(0, 0, 0, 0.815);
+    margin-right: 0px;
+    overflow: auto;
+}
+#div2{
+    background-color: rgba(0, 0, 0, 0.815);
+    margin-left: 0px;
+    overflow: auto;
+    text-align: center;
+}
+.b1{
+    background-image: url(../img/mabhena.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#pic{
+    height: 300px;
+    width: 300px;
+    padding: 0px;
+    border-radius: 100%;
+    overflow: hidden;
+}
+img{
+    width: 100%;
+    position: center;
+}
+#prof{
+    border: none;
+    text-align: center;
+    margin: 0px;
+}
+table{
+    width: 94%;
+    margin-right: 3%;
+    margin-left: 3%;
+    border-radius: 10px;
+    text-align: left;
+
+}
+.col-1{
+    float: left;
+    width: 22%;
+    border: 0px;
+    height: 300px;
+    overflow: hidden;
+}
+#lit{
+    display: inline;
+}
+#p12, #p21, #p11, #p22{
+    display: inline-block;
+    width: 45%;
+    height: 400px;
+    overflow: hidden;
+}
+
+
+
